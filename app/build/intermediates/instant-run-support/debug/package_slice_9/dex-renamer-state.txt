@@ -1,0 +1,4 @@
+#Thu Dec 07 12:38:02 GST 2017
+base.0=/home/rushali/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
